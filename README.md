@@ -22,13 +22,18 @@ preview 미리보기 화면
 * * *
 
 소스코드 삽입
-'''javascript
+
+```javascript
 <scirpt>
   var now = new Date();
   var display = new.toLocaleTimeString();
   documnet.write("현재 시각"+display);
 </scirpt>
-'''
+```
 코드입력종료!
+
+<https://www.naver.com/>
+[네이버](https://www.naver.com/)
+[네이버](https://www.naver.com/, "검색사이트")
 
 ![아기비단털쥐](./image/KakaoTalk_20200401_145427582.jpg)
