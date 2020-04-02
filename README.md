@@ -21,14 +21,14 @@ preview 미리보기 화면
 
 * * *
 
-순서 1.2.3
+소스코드 삽입
+'''javascript
+<scirpt>
+  var now = new Date();
+  var display = new.toLocaleTimeString();
+  documnet.write("현재 시각"+display);
+</scirpt>
+'''
+코드입력종료!
 
-순서 + -
-
-항목 tab
-+원격저장소
-  -origin연결
-  -push
-+협업하기
-    
 ![아기비단털쥐](./image/KakaoTalk_20200401_145427582.jpg)
