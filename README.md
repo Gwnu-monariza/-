@@ -21,4 +21,4 @@ preview 미리보기 화면
 
 * * *
 
-![아기비단털쥐](./images/KakaoTalk_20200401_145427582.jpg)
+![아기비단털쥐](./image/KakaoTalk_20200401_145427582.jpg)
